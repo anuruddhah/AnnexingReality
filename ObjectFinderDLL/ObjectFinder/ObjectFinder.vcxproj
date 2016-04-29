@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{56F519A1-49B2-42D3-8C5D-9E40489F1E18}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>ObjectFinder</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\KinectSDK2.props" />
+    <Import Project="C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\PCL.props" />
+    <Import Project="C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\DepthSenseSDK.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\KinectSDK2.props" />
+    <Import Project="C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\PCL.props" />
+    <Import Project="C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\DepthSenseSDK.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\KinectSDK2.props" />
+    <Import Project="C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\PCL.props" />
+    <Import Project="C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\DepthSenseSDK.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\KinectSDK2.props" />
+    <Import Project="C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\PCL.props" />
+    <Import Project="C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\DepthSenseSDK.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;OBJECTFINDER_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;OBJECTFINDER_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;OBJECTFINDER_EXPORTS;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\jsoncpp\include;C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\dlib-18.15;C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\RANSAC\MiscLib;C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\RANSAC\GfxTL;C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\RANSAC;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\jsoncpp\libs\x64\Release;C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\RANSAC\MiscLib\x64\Release;C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\RANSAC\x64\Release;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>PrimitiveShapes.lib;MiscLib.lib;lib_json.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;OBJECTFINDER_EXPORTS;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\OneEuroFilter\include;C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\jsoncpp\include;C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\dlib-18.15;C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\RANSAC\MiscLib;C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\RANSAC\GfxTL;C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\RANSAC;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\OneEuroFilter\lib;C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\jsoncpp\libs\x64\Release;C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\RANSAC\MiscLib\x64\Release;C:\Users\Anuruddha\Dropbox\UofT\CSC4000Y\Annexing Reality\ExtLibs\RANSAC\x64\Release;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>PrimitiveShapes.lib;MiscLib.lib;lib_json.lib;OneEuroFilter.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\controller.cpp" />
+    <ClCompile Include="..\src\featureCalculator.cpp" />
+    <ClCompile Include="..\src\initialAligner.cpp" />
+    <ClCompile Include="..\src\modelSegmenter.cpp" />
+    <ClCompile Include="..\src\poseTracker.cpp" />
+    <ClCompile Include="..\src\sensorReader.cpp" />
+    <ClCompile Include="..\src\shapeDetector.cpp" />
+    <ClCompile Include="..\src\stdafx.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\featureCalculator.h" />
+    <ClInclude Include="..\src\initialAligner.h" />
+    <ClInclude Include="..\src\modelSegmenter.h" />
+    <ClInclude Include="..\src\poseTracker.h" />
+    <ClInclude Include="..\src\sensorReader.h" />
+    <ClInclude Include="..\src\shapeDetector.h" />
+    <ClInclude Include="..\src\stdafx.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
