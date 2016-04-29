@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 014f25f33da4d224093a645afb16b6df
+timeCreated: 1440780621
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ChamferBo0
+    100002: ChamferBo1
+    100004: ChamferBo2
+    100006: ChamferBox
+    100008: ChamferCyl
+    100010: Circle01
+    100012: Line01
+    100014: Line010
+    100016: Line02
+    100018: Line03
+    100020: Line04
+    100022: Line05
+    100024: Line06
+    100026: Line07
+    100028: Line08
+    100030: Line09
+    100032: Line12
+    100034: Line13
+    100036: OilTank01
+    100038: Sphere02
+    100040: Sphere020
+    100042: //RootNode
+    400000: ChamferBo0
+    400002: ChamferBo1
+    400004: ChamferBo2
+    400006: ChamferBox
+    400008: ChamferCyl
+    400010: Circle01
+    400012: Line01
+    400014: Line010
+    400016: Line02
+    400018: Line03
+    400020: Line04
+    400022: Line05
+    400024: Line06
+    400026: Line07
+    400028: Line08
+    400030: Line09
+    400032: Line12
+    400034: Line13
+    400036: OilTank01
+    400038: Sphere02
+    400040: Sphere020
+    400042: //RootNode
+    2300000: ChamferBo0
+    2300002: ChamferBo1
+    2300004: ChamferBo2
+    2300006: ChamferBox
+    2300008: ChamferCyl
+    2300010: Circle01
+    2300012: Line01
+    2300014: Line010
+    2300016: Line02
+    2300018: Line03
+    2300020: Line04
+    2300022: Line05
+    2300024: Line06
+    2300026: Line07
+    2300028: Line08
+    2300030: Line09
+    2300032: Line12
+    2300034: Line13
+    2300036: OilTank01
+    2300038: Sphere02
+    2300040: Sphere020
+    3300000: ChamferBo0
+    3300002: ChamferBo1
+    3300004: ChamferBo2
+    3300006: ChamferBox
+    3300008: ChamferCyl
+    3300010: Circle01
+    3300012: Line01
+    3300014: Line010
+    3300016: Line02
+    3300018: Line03
+    3300020: Line04
+    3300022: Line05
+    3300024: Line06
+    3300026: Line07
+    3300028: Line08
+    3300030: Line09
+    3300032: Line12
+    3300034: Line13
+    3300036: OilTank01
+    3300038: Sphere02
+    3300040: Sphere020
+    4300000: Circle01
+    4300002: ChamferCyl
+    4300004: ChamferBox
+    4300006: ChamferBo0
+    4300008: ChamferBo1
+    4300010: ChamferBo2
+    4300012: Line13
+    4300014: Line07
+    4300016: Line08
+    4300018: Line01
+    4300020: Line010
+    4300022: Line03
+    4300024: Line05
+    4300026: Line02
+    4300028: Line12
+    4300030: OilTank01
+    4300032: Sphere02
+    4300034: Sphere020
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .000500000024
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 485eff0926a171149b9dbab867fc5099
+timeCreated: 1440781071
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: charcoal_n
+    100002: confire
+    100004: glass
+    100006: hat
+    100008: knit
+    100010: puf
+    100012: scarf
+    100014: snowgr
+    100016: snowman
+    100018: //RootNode
+    100020: water
+    100022: water01
+    100024: wcir
+    100026: wood
+    400000: charcoal_n
+    400002: confire
+    400004: glass
+    400006: hat
+    400008: knit
+    400010: puf
+    400012: scarf
+    400014: snowgr
+    400016: snowman
+    400018: //RootNode
+    400020: water
+    400022: water01
+    400024: wcir
+    400026: wood
+    2300000: charcoal_n
+    2300002: confire
+    2300004: glass
+    2300006: hat
+    2300008: knit
+    2300010: puf
+    2300012: scarf
+    2300014: snowgr
+    2300016: snowman
+    2300018: water
+    2300020: water01
+    2300022: wcir
+    2300024: wood
+    3300000: charcoal_n
+    3300002: confire
+    3300004: glass
+    3300006: hat
+    3300008: knit
+    3300010: puf
+    3300012: scarf
+    3300014: snowgr
+    3300016: snowman
+    3300018: water
+    3300020: water01
+    3300022: wcir
+    3300024: wood
+    4300000: puf
+    4300002: water01
+    4300004: glass
+    4300006: water
+    4300008: knit
+    4300010: snowgr
+    4300012: confire
+    4300014: charcoal_n
+    4300016: scarf
+    4300018: wcir
+    4300020: wood
+    4300022: hat
+    4300024: snowman
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00499999989
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

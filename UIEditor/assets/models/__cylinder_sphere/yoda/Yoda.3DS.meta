@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 0a3cc246c1f95b24c88cb207ef39508b
+timeCreated: 1440780949
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Head
+    100004: Bip01 Neck
+    100006: Bip01 Pelv
+    100008: Bip01 Spi0
+    100010: Bip01 Spin
+    100012: Box03
+    100014: Box06
+    100016: dent
+    100018: dent0
+    100020: eye
+    100022: eye01
+    100024: Hand
+    100026: Hand01
+    100028: langue
+    100030: manteau
+    100032: manteau 2
+    100034: pantalon
+    100036: Sphere01
+    100038: Sphere010
+    100040: Sphere03
+    100042: Sphere04
+    100044: tete
+    100046: //RootNode
+    400000: Bip01
+    400002: Bip01 Head
+    400004: Bip01 Neck
+    400006: Bip01 Pelv
+    400008: Bip01 Spi0
+    400010: Bip01 Spin
+    400012: Box03
+    400014: Box06
+    400016: dent
+    400018: dent0
+    400020: eye
+    400022: eye01
+    400024: Hand
+    400026: Hand01
+    400028: langue
+    400030: manteau
+    400032: manteau 2
+    400034: pantalon
+    400036: Sphere01
+    400038: Sphere010
+    400040: Sphere03
+    400042: Sphere04
+    400044: tete
+    400046: //RootNode
+    2300000: Bip01
+    2300002: Bip01 Head
+    2300004: Bip01 Neck
+    2300006: Bip01 Pelv
+    2300008: Bip01 Spi0
+    2300010: Bip01 Spin
+    2300012: Box03
+    2300014: Box06
+    2300016: dent
+    2300018: dent0
+    2300020: Hand
+    2300022: Hand01
+    2300024: langue
+    2300026: manteau
+    2300028: manteau 2
+    2300030: pantalon
+    2300032: Sphere01
+    2300034: Sphere010
+    2300036: Sphere03
+    2300038: Sphere04
+    2300040: tete
+    3300000: Bip01
+    3300002: Bip01 Head
+    3300004: Bip01 Neck
+    3300006: Bip01 Pelv
+    3300008: Bip01 Spi0
+    3300010: Bip01 Spin
+    3300012: Box03
+    3300014: Box06
+    3300016: dent
+    3300018: dent0
+    3300020: Hand
+    3300022: Hand01
+    3300024: langue
+    3300026: manteau
+    3300028: manteau 2
+    3300030: pantalon
+    3300032: Sphere01
+    3300034: Sphere010
+    3300036: Sphere03
+    3300038: Sphere04
+    3300040: tete
+    4300000: manteau 2
+    4300002: Bip01
+    4300004: Bip01 Pelv
+    4300006: Bip01 Spin
+    4300008: Bip01 Spi0
+    4300010: Bip01 Neck
+    4300012: Bip01 Head
+    4300014: dent
+    4300016: dent0
+    4300018: langue
+    4300020: Sphere03
+    4300022: Sphere04
+    4300024: Sphere01
+    4300026: Sphere010
+    4300028: Hand01
+    4300030: Box06
+    4300032: Box03
+    4300034: pantalon
+    4300036: manteau
+    4300038: tete
+    4300040: Hand
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

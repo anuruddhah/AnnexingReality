@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: a4f118d49ce3aab428ea18fd156f81c8
+timeCreated: 1440726035
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arch41_043_obj_1
+    100002: Arch41_043_obj_2
+    100004: Arch41_043_obj_3
+    100006: Arch41_043_obj_4
+    100008: Arch41_043_obj_5
+    100010: Arch41_043_obj_6
+    100012: Arch41_043_obj_7
+    100014: Group11
+    100016: Group12
+    100018: Group13
+    100020: //RootNode
+    100022: VRayPlane01
+    400000: Arch41_043_obj_1
+    400002: Arch41_043_obj_2
+    400004: Arch41_043_obj_3
+    400006: Arch41_043_obj_4
+    400008: Arch41_043_obj_5
+    400010: Arch41_043_obj_6
+    400012: Arch41_043_obj_7
+    400014: Group11
+    400016: Group12
+    400018: Group13
+    400020: //RootNode
+    400022: VRayPlane01
+    2300000: Arch41_043_obj_1
+    2300002: Arch41_043_obj_2
+    2300004: Arch41_043_obj_3
+    2300006: Arch41_043_obj_4
+    2300008: Arch41_043_obj_5
+    2300010: Arch41_043_obj_6
+    2300012: Arch41_043_obj_7
+    3300000: Arch41_043_obj_1
+    3300002: Arch41_043_obj_2
+    3300004: Arch41_043_obj_3
+    3300006: Arch41_043_obj_4
+    3300008: Arch41_043_obj_5
+    3300010: Arch41_043_obj_6
+    3300012: Arch41_043_obj_7
+    4300000: Arch41_043_obj_3
+    4300002: Arch41_043_obj_5
+    4300004: Arch41_043_obj_6
+    4300006: Arch41_043_obj_7
+    4300008: Arch41_043_obj_4
+    4300010: Arch41_043_obj_2
+    4300012: Arch41_043_obj_1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

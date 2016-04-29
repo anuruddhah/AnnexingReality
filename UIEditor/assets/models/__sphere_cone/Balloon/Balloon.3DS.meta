@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: d630859b1061fdc449285bdf77aed613
+timeCreated: 1440974303
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box03
+    100004: Cylinder05
+    100006: Cylinder06
+    100008: Line31
+    100010: Line32
+    100012: Line33
+    100014: Line34
+    100016: Line35
+    100018: Line36
+    100020: Line37
+    100022: Line38
+    100024: Line39
+    100026: Line40
+    100028: Line41
+    100030: Line42
+    100032: Line43
+    100034: Line44
+    100036: Line45
+    100038: Rectangle0
+    100040: Rectangle1
+    100042: Sphere04
+    100044: Sphere07
+    100046: Tube04
+    400000: //RootNode
+    400002: Box03
+    400004: Cylinder05
+    400006: Cylinder06
+    400008: Line31
+    400010: Line32
+    400012: Line33
+    400014: Line34
+    400016: Line35
+    400018: Line36
+    400020: Line37
+    400022: Line38
+    400024: Line39
+    400026: Line40
+    400028: Line41
+    400030: Line42
+    400032: Line43
+    400034: Line44
+    400036: Line45
+    400038: Rectangle0
+    400040: Rectangle1
+    400042: Sphere04
+    400044: Sphere07
+    400046: Tube04
+    2300000: Box03
+    2300002: Cylinder05
+    2300004: Cylinder06
+    2300006: Line31
+    2300008: Line32
+    2300010: Line33
+    2300012: Line34
+    2300014: Line35
+    2300016: Line36
+    2300018: Line37
+    2300020: Line38
+    2300022: Line39
+    2300024: Line40
+    2300026: Line41
+    2300028: Line42
+    2300030: Line43
+    2300032: Line44
+    2300034: Line45
+    2300036: Rectangle0
+    2300038: Rectangle1
+    2300040: Sphere04
+    2300042: Sphere07
+    2300044: Tube04
+    3300000: Box03
+    3300002: Cylinder05
+    3300004: Cylinder06
+    3300006: Line31
+    3300008: Line32
+    3300010: Line33
+    3300012: Line34
+    3300014: Line35
+    3300016: Line36
+    3300018: Line37
+    3300020: Line38
+    3300022: Line39
+    3300024: Line40
+    3300026: Line41
+    3300028: Line42
+    3300030: Line43
+    3300032: Line44
+    3300034: Line45
+    3300036: Rectangle0
+    3300038: Rectangle1
+    3300040: Sphere04
+    3300042: Sphere07
+    3300044: Tube04
+    4300000: Sphere07
+    4300002: Tube04
+    4300004: Sphere04
+    4300006: Rectangle0
+    4300008: Box03
+    4300010: Rectangle1
+    4300012: Line31
+    4300014: Line32
+    4300016: Line33
+    4300018: Line34
+    4300020: Cylinder05
+    4300022: Line35
+    4300024: Cylinder06
+    4300026: Line36
+    4300028: Line37
+    4300030: Line38
+    4300032: Line39
+    4300034: Line40
+    4300036: Line41
+    4300038: Line42
+    4300040: Line43
+    4300042: Line44
+    4300044: Line45
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 9.99999975e-05
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
